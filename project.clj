@@ -1,4 +1,4 @@
-(defproject brainsfeed/lazy-map "0.1.1-SNAPSHOT"
+(defproject brainsfeed/lazy-map "0.1.1"
   :description "Lazy maps for Clojure, fork of thinktopic/lazy-map"
   :url "https://github.com/thinktopic/lazy-map"
   :license {:name "Eclipse Public License"
